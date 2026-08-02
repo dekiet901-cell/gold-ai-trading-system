@@ -1,0 +1,11 @@
+2026-08-02 18:54:13 | INFO | Logger initialized.
+2026-08-02 18:54:13 | INFO | Gold AI Started
+2026-08-02 18:54:13 | WARNING | Warning Test
+2026-08-02 18:54:13 | ERROR | Error Test
+2026-08-02 18:54:13 | CRITICAL | Critical Test
+2026-08-02 19:28:09 | INFO | Logger initialized.
+2026-08-02 19:28:09 | INFO | MT5 Connected
+2026-08-02 19:28:09 | INFO | MT5 Disconnected
+2026-08-02 19:49:53 | INFO | Logger initialized.
+2026-08-02 19:49:53 | INFO | MT5 Connected
+2026-08-02 19:49:53 | INFO | MT5 Disconnected
